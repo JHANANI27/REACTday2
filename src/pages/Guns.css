@@ -1,0 +1,15 @@
+#header2{
+    min-height :100vh;
+    width :100%;
+  background-image: linear-gradient(rgba(209, 20, 209, 0.752),rgba(128, 7, 128, 0.752)),url(https://e0.pxfuel.com/wallpapers/664/301/desktop-wallpaper-bts-purple-background-jungkook-purple.jpg);
+  
+    background-position: center;
+    background-size: cover ;
+    position: relative;
+    
+  }
+  #header2 h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3em;
+  }

@@ -1,0 +1,85 @@
+
+.divmain
+{
+    margin-left: 14vh;
+    display: flex;
+    width: 20vw;
+    border-radius: 10px;
+}
+.divmain2
+{
+    display: flex;
+    width: 20vw;
+    border-radius: 10px;
+}
+.product
+{
+    border: 1px solid rgb(28, 20, 20);
+    
+    /* background:  rgb(146, 145, 146); */
+  padding: 6% 12%;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  
+}
+.product img{
+    width: 15vw;
+    height:20vh;
+}
+.btn
+{
+    color :rgb(0, 0, 0);
+  text-decoration: none;
+  display:inline-block;
+  border: 1px solid rgb(16, 15, 15) ;
+  background: rgb(255, 59, 59);
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 5px;
+  position: relative;
+  cursor:pointer;
+  color: white;
+}
+
+.product1
+{
+    border: 1px solid rgb(0, 0, 0);
+    /* background:  rgb(146, 145, 146); */
+  padding: 6% 12%;
+  color: white;
+  font-family: 'Pacifico', cursive;
+}
+.product1 img{
+    width: 15vw;
+    height:20vh;
+}
+
+.product2
+{
+    border: 1px solid rgb(15, 14, 14);
+    
+    /* background:  rgb(146, 145, 146); */
+  padding: 6% 12%;
+  color: white;
+  font-family: 'Pacifico', cursive;
+}
+.product2 img{
+    width: 15vw;
+    height:20vh;
+}
+
+.product3
+{
+    border: 1px solid rgb(12, 12, 12);
+    /* background: rgb(146, 145, 146); */
+  padding: 6% 12%;
+  color: white;
+  font-family: 'Pacifico', cursive;
+}
+.product3 img{
+    width: 15vw;
+    height:20vh;
+}
+
+
+
